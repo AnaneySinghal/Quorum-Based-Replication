@@ -63,7 +63,7 @@ export default function LogsView() {
     <div>
       <div className="page-title">Audit Logs</div>
       <div className="page-sub">
-        full change history - auto-refreshes every 5s
+        full change history
       </div>
 
       {stats && (

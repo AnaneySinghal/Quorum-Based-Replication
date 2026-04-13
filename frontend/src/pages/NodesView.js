@@ -368,10 +368,7 @@ export default function NodesView() {
   return (
     <div>
       <div className="page-title">Node Cluster</div>
-      <div className="page-sub">
-        bi-directional quorum replication - auto-sync every 5s
-      </div>
-
+      
       <div className="stat-bar">
         <div className="stat-card">
           <div className="stat-label">Total Nodes</div>
